@@ -23,7 +23,7 @@ across frames.
 - ***Semi-online*** that focus on placing multiple frames in a short clip to strengthen intra-clip tracking similar to offline methods.
 
 
-|PAPER TITLE|YEAR|CONFERENCE, JOURNAL|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
+|PAPER TITLE|YEAR|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
 | | | |(Universal / Task)|(Online / Offline)| | | | |
 | Universal Instance Perception as Object Discovery and Retrieval |2023|CVPR|Universal - VIS, VOS, MOTS| Online, and post-processing free|Youtube-VIS 2019, OVIS|[Link](https://arxiv.org/pdf/2303.06674v1.pdf)|[Link](https://github.com/MasterBin-IIAU/UNINEXT)| |
