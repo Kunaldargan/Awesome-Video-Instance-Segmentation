@@ -28,8 +28,7 @@ across frames.
 | | | |(Universal / Task)|(Online / Offline)| | | | |
 | Universal Instance Perception as Object Discovery and Retrieval |2023|CVPR|Universal - VIS, VOS, MOTS| Online, and post-processing free|Youtube-VIS 2019, OVIS|[Link](https://arxiv.org/pdf/2303.06674v1.pdf)|[Link](https://github.com/MasterBin-IIAU/UNINEXT)| |
 |MDQE: Mining Discriminative Query Embeddings to Segment Occluded Instances on Challenging Videos|2023|CVPR|VIS|Semi-Online|YouTube-VIS 2021,OVIS |[Link](https://arxiv.org/pdf/2303.14395.pdf)|[Link](https://github.com/minghanli/mdqe_cvpr2023)| |
-|Mask-Free Video Instance Segmentation|2023|CVPR|VIS| |YouTube-VIS 2019/2021, OVIS
-and BDD100K,MOTS |[Link](https://arxiv.org/pdf/2303.15904.pdf)|[Link](https://github.com/syscv/maskfreevis)| |
+|Mask-Free Video Instance Segmentation|2023|CVPR|VIS| |YouTube-VIS 2019/2021, OVIS and BDD100K,MOTS |[Link](https://arxiv.org/pdf/2303.15904.pdf)|[Link](https://github.com/syscv/maskfreevis)| |
 |Tube-Link: A Flexible Cross Tube Baseline for Universal Video Segmentation|2023|CVPR|Universal|Semi Online| |[Link](https://arxiv.org/pdf/2303.12782v1.pdf)|[Link](https://github.com/lxtGH/Tube-Link) (Code Not Available Yet)| |
 |Video Instance Segmentation in an Open-World|2023|CVPR|VIS - Unseen Categories| | |[Link](https://arxiv.org/pdf/2304.01200v1.pdf)|[Link](https://github.com/OmkarThawakar/OWVISFormer)| |
 |InstMove: Instance Motion for Object-centric Video Segmentation|2023|CVPR|VIS, VOS| |SOTA OVIS|[Link](https://arxiv.org/pdf/2303.08132.pdf)|No code available yet. To be released in the VNEXT repository| |
