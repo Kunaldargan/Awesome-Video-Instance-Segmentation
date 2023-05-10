@@ -33,7 +33,7 @@ across frames.
 |Video Instance Segmentation in an Open-World|2023|CVPR|VIS - Unseen Categories| | |[Link](https://arxiv.org/pdf/2304.01200v1.pdf)|[Link](https://github.com/OmkarThawakar/OWVISFormer)| |
 |InstMove: Instance Motion for Object-centric Video Segmentation|2023|CVPR|VIS, VOS| |SOTA OVIS|[Link](https://arxiv.org/pdf/2303.08132.pdf)|No code available yet. To be released in the VNEXT repository| |
 |TarViS: A Unified Approach for Target-based Video Segmentation|2023|CVPR|Claims SOTA - Universal| | |[Link](https://arxiv.org/pdf/2301.02657.pdf)|No code available yet.| |
-|A Generalized Framework for Video Instance Segmentation|2023|ARXIV|Claims SOTA| | |[Link](https://arxiv.org/pdf/2211.08834.pdf)|[Link](https://github.com/miranheo/GenVIS)| |
+|A Generalized Framework for Video Instance Segmentation|2023|CVPR|VIS|Semi-Online/Offline|YouTube-VIS 2019/2021,OVIS|[Link](https://arxiv.org/pdf/2211.08834.pdf)|[Link](https://github.com/miranheo/GenVIS)| |
 |Masked-attention Mask Transformer for Universal Image Segmentation|2022|CVPR|VIS|Mask2Former|YTVIS 2019|[Link](https://arxiv.org/pdf/2112.01527.pdf)|[Link](https://bowenc0221.github.io/mask2former/)| |
 |Instance As Identity: A Generic Online Paradigm for Video Instance Segmentation|2022|ECCV|VIS| | |[Link](https://arxiv.org/pdf/2208.03079v2.pdf)| |[Link](https://paperswithcode.com/paper/instanceformer-an-online-video-instance)|
 |Temporally Efficient Vision Transformer for Video Instance Segmentation|2022|CVPR| | | |[Link]([https://link-url-here.org](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Temporally_Efficient_Vision_Transformer_for_Video_Instance_Segmentation_CVPR_2022_paper.pdf))| | |
