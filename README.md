@@ -14,7 +14,7 @@ Any suggestion stars ⭐ , comments & sharing 😀 are welcome!!
 
 ## Introduction
 
-**Video Instance Segmentation** aims at **detecting, segmenting, and tracking every pixel of object instances simultaneously in a given video.**. 
+**Video Instance Segmentation** aims at **detecting, segmenting, and tracking every pixel of object instances simultaneously in a given video.** 
 
 **Video Instance Segmentation** (VIS) methods can be categorized as online, Semi-Online or Offline methods. 
 - ***Online methods***  take as input a video frame by frame, detecting and segmenting objects per frame while tracking instances and optimizing results
