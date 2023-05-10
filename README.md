@@ -4,7 +4,7 @@ A list of video instance segmentation (VIS) papers
 # Awesome Video Instance Segmentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A list of Video Instance Segmentation (VIS) Research Papers.
-Any suggestion starts, ⭐ & comments & sharing 😀 are welcome!!
+Any suggestion stars ⭐ , comments & sharing 😀 are welcome!!
 
 ```diff
 - 2023.05.10: Recent papers (from 2023) 
