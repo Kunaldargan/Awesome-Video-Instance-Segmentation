@@ -33,7 +33,7 @@ across frames.
 ## <span id = "Datasets"> **Datasets** </span>
 - **Youtube VIS 2019 (YTVIS 2019)**   : The 2019 version was used for [“the 2nd large-scale video object segmentation challenge”](https://youtube-vos.org/challenge/2019/) at ICCV 2019.
 - **Youtube VIS 2021 (YTVIS 2021)**   : The 2021 version was used for [“the 3rd large-scale video object segmentation challenge”](https://youtube-vos.org/challenge/2021/) at ICCV 2021.
-- **Youtube VIS 2021 (YTVIS 2021)**   : The 2022 version was used for [“the 4th large-scale video object segmentation challenge”](https://youtube-vos.org/challenge/2022/) at CVPR 2022.
+- **Youtube VIS 2021 (YTVIS 2022)**   : The 2022 version was used for [“the 4th large-scale video object segmentation challenge”](https://youtube-vos.org/challenge/2022/) at CVPR 2022.
 
 
 ---
