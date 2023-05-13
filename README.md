@@ -21,7 +21,7 @@ Any suggestion stars ⭐ , comments & sharing 😀 are welcome!!
 
 
 
-## <span id = "Introduction"> **INTRODUCTION** </span>
+## <span id = "Introduction"> **Introduction** </span>
 
 **Video Instance Segmentation** aims at **detecting, segmenting, and tracking every pixel of object instances simultaneously in a given video.** 
 
