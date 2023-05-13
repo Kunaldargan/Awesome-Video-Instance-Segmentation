@@ -20,7 +20,6 @@ Any suggestion stars ⭐ , comments & sharing 😀 are welcome!!
 ---
 
 ## <span id = "Introduction"> **Introduction** </span>
-
 **Video Instance Segmentation** aims at **detecting, segmenting, and tracking every pixel of object instances simultaneously in a given video.** 
 
 **Video Instance Segmentation** (VIS) methods can be categorized as online, Semi-Online or Offline methods. 
@@ -30,9 +29,9 @@ across frames.
 - ***Semi-online*** that focus on placing multiple frames in a short clip to strengthen intra-clip tracking similar to offline methods.
 ---
 
-##  <span id = "Datasets"> **Datasets** </span>
-- ### Youtube VIS 2019 (YTVIS 2019)   : The 2019 version was used for [“the 2nd large-scale video object segmentation challenge”](https://youtube-vos.org/challenge/2019/) at ICCV 2019.
-- - ### Youtube VIS 2021 (YTVIS 2021) : The 2021 version was used for [“the 3rd large-scale video object segmentation challenge”](https://youtube-vos.org/challenge/2021/) at ICCV 2021.
+## <span id = "Datasets"> **Datasets** </span>
+- **Youtube VIS 2019 (YTVIS 2019)**   : The 2019 version was used for [“the 2nd large-scale video object segmentation challenge”](https://youtube-vos.org/challenge/2019/) at ICCV 2019.
+-** Youtube VIS 2021 (YTVIS 2021)**   : The 2021 version was used for [“the 3rd large-scale video object segmentation challenge”](https://youtube-vos.org/challenge/2021/) at ICCV 2021.
 
 
 
