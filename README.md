@@ -1,13 +1,11 @@
 # Awesome-Video-Instance-Segmentation
 A list of video instance segmentation (VIS) papers 
 
-```diff
 ## Contents
 
 - [Introduction](#Introduction)
 - [Datasets](#Introduction)
 - [2023](#2023)
-```
 
 
 # Awesome Video Instance Segmentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
