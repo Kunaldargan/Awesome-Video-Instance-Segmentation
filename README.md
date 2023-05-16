@@ -47,8 +47,8 @@ across frames.
 
 ## <span id = "2023"> **Year 2023** </span>
  
-|PAPER TITLE|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
-|:----|:----|:----|:----|:----|:----|:----|:----|
+|PAPER TITLE|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|
+|:----|:----|:----|:----|:----|:----|:----|
 | | | |(Universal / Task)|(Online / Offline)| | | | |
 | Universal Instance Perception as Object Discovery and Retrieval |CVPR|Universal - VIS, VOS, MOTS| Online, and post-processing free|YTVIS  2019, OVIS|[Link](https://arxiv.org/pdf/2303.06674v1.pdf)|[Link](https://github.com/MasterBin-IIAU/UNINEXT)| |
 |MDQE: Mining Discriminative Query Embeddings to Segment Occluded Instances on Challenging Videos|CVPR|VIS|Semi-Online|YTVIS 2021,OVIS|[Link](https://arxiv.org/pdf/2303.14395.pdf)|[Link](https://github.com/minghanli/mdqe_cvpr2023)| |
@@ -62,8 +62,8 @@ across frames.
 
 
 ## <span id = "2022"> **Year 2022** </span>
-|PAPER TITLE|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
-|:----|:----|:----|:----|:----|:----|:----|:----|
+|PAPER TITLE|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|
+|:----|:----|:----|:----|:----|:----|:----|
 | | | |(Universal / Task)|(Online / Offline)| | | | |
 |Masked-attention Mask Transformer for Universal Image Segmentation|CVPR|VIS|Offline|YTVIS 2019|[Link](https://arxiv.org/pdf/2112.01527.pdf)|[Link](https://bowenc0221.github.io/mask2former/)| |
 |Instance As Identity: A Generic Online Paradigm for Video Instance Segmentation|ECCV|VIS| | |[Link](https://arxiv.org/pdf/2208.03079v2.pdf)| |[Link](https://paperswithcode.com/paper/instanceformer-an-online-video-instance)|
@@ -75,7 +75,7 @@ across frames.
 
 
 ## <span id = "2021"> **Year 2021** </span>
-|PAPER TITLE|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
-|:----|:----|:----|:----|:----|:----|:----|:----|
+|PAPER TITLE|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|
+|:----|:----|:----|:----|:----|:----|:----|
 
 
