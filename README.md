@@ -62,7 +62,7 @@ across frames.
 
 
 ## <span id = "2022"> **Year 2022** </span>
-|PAPER TITLE|YEAR|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
+|PAPER TITLE|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
 |:----|:----|:----|:----|:----|:----|:----|:----|
 | | | |(Universal / Task)|(Online / Offline)| | | | |
 |Masked-attention Mask Transformer for Universal Image Segmentation|CVPR|VIS|Offline|YTVIS 2019|[Link](https://arxiv.org/pdf/2112.01527.pdf)|[Link](https://bowenc0221.github.io/mask2former/)| |
@@ -75,7 +75,7 @@ across frames.
 
 
 ## <span id = "2021"> **Year 2021** </span>
-|PAPER TITLE|YEAR|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
-|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+|PAPER TITLE|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
+|:----|:----|:----|:----|:----|:----|:----|:----|
 
 
