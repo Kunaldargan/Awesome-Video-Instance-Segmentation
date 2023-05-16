@@ -1,12 +1,13 @@
 # Awesome-Video-Instance-Segmentation
-A list of video instance segmentation (VIS) papers 
+A curated list of papers, datasets, evaluations related to Video Instance Segmentation (VIS)  
 
 ## Contents
 
 - [Introduction](#Introduction)
 - [Datasets](#Datasets)
-- [2023](#2023)
-
+- [Year 2023](#2023)
+- [Year 2022](#2022)
+- [Year 2021](#2021)
 ---
 # Awesome Video Instance Segmentation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -19,6 +20,8 @@ Any suggestion stars ⭐ , comments & sharing 😀 are welcome!!
 ```
 ---
 
+
+
 ## <span id = "Introduction"> **Introduction** </span>
 **Video Instance Segmentation** aims at **detecting, segmenting, and tracking every pixel of object instances simultaneously in a given video.** 
 
@@ -30,6 +33,8 @@ across frames.
 
 ---
 
+
+
 ## <span id = "Datasets"> **Datasets** </span>
 - **Youtube VIS 2019 (YTVIS 2019)**   : The 2019 version was used for [“the 2nd large-scale video object segmentation challenge”](https://youtube-vos.org/challenge/2019/) at ICCV 2019.
 - **Youtube VIS 2021 (YTVIS 2021)**   : The 2021 version was used for [“the 3rd large-scale video object segmentation challenge”](https://youtube-vos.org/challenge/2021/) at ICCV 2021.
@@ -38,7 +43,9 @@ across frames.
 
 ---
 
-## <span id = "2023"> **2023** </span>
+
+
+## <span id = "2023"> **Year 2023** </span>
 |PAPER TITLE|YEAR|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
 | | | |(Universal / Task)|(Online / Offline)| | | | |
@@ -51,7 +58,9 @@ across frames.
 |TarViS: A Unified Approach for Target-based Video Segmentation|2023|CVPR|Universal - VIS, VOS, PET,VPS|Semi-Online|KITTI-STEP, CityscapesVPS, VIPSeg, YouTubeVIS 2019/2021, DAVIS 2017, BURST|[Link](https://arxiv.org/pdf/2301.02657.pdf)|[Link](https://github.com/Ali2500/TarViS)| |
 |A Generalized Framework for Video Instance Segmentation|2023|CVPR|VIS|Semi-Online/Offline|YouTube-VIS 2019/2021,OVIS|[Link](https://arxiv.org/pdf/2211.08834.pdf)|[Link](https://github.com/miranheo/GenVIS)| |
 
-**2022**
+
+
+## <span id = "2022"> **Year 2022** </span>
 |PAPER TITLE|YEAR|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
 | | | |(Universal / Task)|(Online / Offline)| | | | |
@@ -62,12 +71,10 @@ across frames.
 |TIVE: A Toolbox for Identifying Video Instance Segmentation Errors|2022|Arxiv|VIS Metric| | |[Link](https://arxiv.org/pdf/2210.08856v1.pdf)| | |
 |STC: Spatio-Temporal Contrastive Learning for Video Instance Segmentation|2022|ECCV Workshop| | | |[Link](https://link.springer.com/chapter/10.1007/978-3-031-25069-9_35)| | |
 
-**2021**
+
+
+## <span id = "2021"> **Year 2021** </span>
 |PAPER TITLE|YEAR|VENUE|PROBLEM|TRACKING|DATASET|PAPER LINK|GITHUB LINK|PROJECT LINK|
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
-| | | |(Universal / Task)|(Online / Offline)| | | | |
-|Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation|2021|NEURIPS|VIS|PCAN| |[Link](https://papers.nips.cc/paper/2021/file/093f65e080a295f8076b1c5722a46aa2-Paper.pdf)| | |
-|Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation|2021|CVPR| | | |[Link](http://www4.comp.polyu.edu.hk/~cslzhang/papers.htm)|[Link](https://github.com/MinghanLi/STMask)| |
-|Crossover Learning for Fast Online Video Instance Segmentation|2021|ICCV| | | |[Link](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Crossover_Learning_for_Fast_Online_Video_Instance_Segmentation_ICCV_2021_paper.pdf)|[Link](https://github.com/hustvl/CrossVIS)| |
-| | | | | | | | | |
-| | | | | | | | | |
+
+
